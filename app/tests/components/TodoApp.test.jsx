@@ -7,7 +7,7 @@ var $ = require('jquery');
 var TodoApp = require('TodoApp');
 
 describe('TodoApp', () => {
-    it('should exist', () => {
-        expect(TodoApp).toExist();
-    });
+  it('should exist', () => {
+    expect(TodoApp).toExist();
+  });
 });
